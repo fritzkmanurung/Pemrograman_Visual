@@ -14,6 +14,3 @@ Proyek ini dikelompokkan ke dalam kategori berikut untuk memudahkan navigasi:
 ## Teknologi yang Digunakan
 - Java SE
 - Git/GitHub untuk Version Control
-
-## Aktivitas Komit
-Repository ini dikelola dengan komit bertahap (incremental commits) untuk mencerminkan progres belajar pada setiap modul tugas.
